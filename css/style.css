@@ -889,7 +889,7 @@ footer p {
 
 #blog-post  .content {
   padding:30px 25px; 
-  text-align: center;
+  text-align: left;
 }
 #blog-post .content h4 {
   text-transform: capitalize;
